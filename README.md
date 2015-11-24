@@ -1,2 +1,2 @@
 # ProjectOne
-Dummy repo to test git integration with AndroidSTudio
+Dummy repo to test git integration with AndroidStudio
